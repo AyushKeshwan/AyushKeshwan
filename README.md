@@ -8,7 +8,7 @@ I am python developer who falls in love with fullstack developent
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [hunnykeshwan@gmail.com](mailto:hunnykeshwan@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Secretly Iron Man... But Don't Tell Anyone
 
